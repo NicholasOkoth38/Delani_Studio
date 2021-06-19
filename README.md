@@ -21,7 +21,9 @@ If you don'nt know how just install it with the following command in your termin
 ## Support and contact details
 nicholas.okoth@student.moringaschool.com
 nicholasko38@gmail.com
-##My gh-pages link [Live](https://github.com/NicholasOkoth38)
+
+## My gh-pages link 
+[Live](https://github.com/NicholasOkoth38)
 
 ### Live Site
 View [Live](https://github.com/NicholasOkoth38/Delani_Studio)
