@@ -3,7 +3,7 @@
 #### By *Nicholas Owino*
 
 ### Project Description
-This is a basic website project that displays what the studio does and entails.I have implemented everything I have learnt from Bootstrap and jQuery to recreate a landing page for this fictional studio.
+This is a basic website project that displays what the studio does and entails.I have implemented everything I have learnt from Bootstrap and J Query to recreate a landing page for this fictional studio.
 
 ### Prerequisities
 Have your git installed.
