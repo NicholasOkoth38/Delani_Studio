@@ -1,5 +1,5 @@
 .header {
-    background-image: url(/assets/Images/backgrounds/h_img.jpg);
+    background-image: url(../Images/backgrounds/h_img.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
@@ -8,7 +8,7 @@
 }
 
 .services {
-    background-image: url(/assets/Images/backgrounds/s_image.jpg);
+    background-image: url(../Images/backgrounds/s_image.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     color: white;
@@ -35,7 +35,7 @@
 }
 
 .contact {
-    background-image: url(/assets/Images/backgrounds/c_image.jpg);
+    background-image: url(../Images/backgrounds/c_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -150,7 +150,7 @@
 }
 
 .projectOne {
-    background-image: url(/assets/Images/portfolio/work4.jpg);
+    background-image: url(../Images/portfolio/work4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
@@ -159,7 +159,7 @@
 }
 
 .projectTwo {
-    background-image: url(/assets/Images/portfolio/work3.jpg);
+    background-image: url(../Images/portfolio/work3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
@@ -168,7 +168,7 @@
 }
 
 .projectThree {
-    background-image: url(/assets/Images/portfolio/work2.jpg);
+    background-image: url(../Images/portfolio/work2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
@@ -177,7 +177,7 @@
 }
 
 .projectFour {
-    background-image: url(/assets/Images/portfolio/work1.jpg);
+    background-image: url(../Images/portfolio/work1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
@@ -186,7 +186,7 @@
 }
 
 .projectFive {
-    background-image: url(/assets/Images/portfolio/work5.jpg);
+    background-image: url(../Images/portfolio/work5.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
@@ -195,7 +195,7 @@
 }
 
 .projectSix {
-    background-image: url(/assets/Images/portfolio/work6.jpg);
+    background-image: url(../Images/portfolio/work6.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
@@ -204,7 +204,7 @@
 }
 
 .projectSeven {
-    background-image: url(/assets/Images/portfolio/work7.jpg);
+    background-image: url(../Images/portfolio/work7.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
@@ -213,7 +213,7 @@
 }
 
 .projectEight {
-    background-image: url(/assets/Images/portfolio/work8.jpg);
+    background-image: url(../Images/portfolio/work8.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 5px;
